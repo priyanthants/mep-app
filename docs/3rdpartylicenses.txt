@@ -89,15 +89,29 @@ THE SOFTWARE.
 
 @angular/material/checkbox
 
+@angular/material/core
+
 @angular/material/datepicker
 
 @angular/material/dialog
 
 @angular/material/form-field
 
+@angular/material/grid-list
+
+@angular/material/icon
+
+@angular/material/paginator
+
 @angular/material/progress-spinner
 
+@angular/material/select
+
 @angular/material/snack-bar
+
+@angular/material/sort
+
+@angular/material/table
 
 @angular/material/tooltip
 
