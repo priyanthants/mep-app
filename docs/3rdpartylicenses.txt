@@ -103,8 +103,6 @@ THE SOFTWARE.
 
 @angular/material/paginator
 
-@angular/material/progress-spinner
-
 @angular/material/select
 
 @angular/material/snack-bar
